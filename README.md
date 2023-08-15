@@ -1,4 +1,4 @@
-## Cab Data Analysis: Project Overview for Interview
+## Cab Data Analysis: Project Overview
 
 In the context of a comprehensive data analysis project focused on taxi cab services, here's a concise overview of the steps undertaken and the findings derived from the analysis.
 

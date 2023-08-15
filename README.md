@@ -24,13 +24,14 @@ Python programming was utilized for more in-depth analysis.
 The "eda_notebook.ipynb" notebook contains Python code that delves into data exploration, generating additional insights.
 A variety of plots were created and stored in the "plots" folder, offering a comprehensive view of various data aspects.
 
-**Key Findings and Conclusions:**
+### Key Findings and Conclusions:**
 After thorough analysis and observations, the following conclusions were drawn:
 
 **Company Preference:**
 Yellow Cab emerged as the preferred choice for investment due to various factors.
 It demonstrated a broader customer base across genders compared to Pink Cab.
 Yellow Cab exhibited a higher profit margin and lower loss margin compared to Pink Cab.
+
 As the price charged increased, Yellow Cab's profit growth outpaced Pink Cab's.
 Yellow Cab consistently maintained a higher transaction margin on a yearly and monthly basis.
 Geographical Insights:

@@ -1,8 +1,8 @@
-Taxi Cab Data Analysis: Project Overview for Interview
+## Cab Data Analysis: Project Overview for Interview
 
 In the context of a comprehensive data analysis project focused on taxi cab services, here's a concise overview of the steps undertaken and the findings derived from the analysis.
 
-Project Scope:
+**Project Scope:**
 The project involves a detailed exploration of taxi cab data to gain insights into the performance of two prominent cab companies: Yellow Cab and Pink Cab. The primary objectives were to evaluate their profitability, customer reach, and geographical presence.
 
 **Data Collection and Processing:**

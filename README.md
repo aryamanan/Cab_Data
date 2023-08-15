@@ -24,10 +24,10 @@ Python programming was utilized for more in-depth analysis.
 The "eda_notebook.ipynb" notebook contains Python code that delves into data exploration, generating additional insights.
 A variety of plots were created and stored in the "plots" folder, offering a comprehensive view of various data aspects.
 
-** Key Findings and Conclusions: **
+**Key Findings and Conclusions:**
 After thorough analysis and observations, the following conclusions were drawn:
 
-Company Preference:
+**Company Preference:**
 Yellow Cab emerged as the preferred choice for investment due to various factors.
 It demonstrated a broader customer base across genders compared to Pink Cab.
 Yellow Cab exhibited a higher profit margin and lower loss margin compared to Pink Cab.
@@ -35,10 +35,10 @@ As the price charged increased, Yellow Cab's profit growth outpaced Pink Cab's.
 Yellow Cab consistently maintained a higher transaction margin on a yearly and monthly basis.
 Geographical Insights:
 
-** Recommendation **
+**Recommendation:**
 Although Yellow Cab dominated key cities like New York, Chicago, and Los Angeles, it's recommended to expand its presence in Miami, Silicon Valley, and Orange County to maximize profitability.
-Recommendations:
 
 To further solidify its position, Yellow Cab should consider enhancing its services and offers in order to attract a wider customer base.
 By analyzing specific factors influencing customer preferences, Yellow Cab can tailor its strategies to tap into untapped markets effectively.
+
 In summary, the comprehensive analysis of taxi cab data underscores Yellow Cab's superior performance in terms of profitability, customer reach, and geographical coverage. This overview encapsulates the project's objectives, methods, findings, and actionable recommendations, all of which can be elaborated upon in an interview setting.

@@ -24,7 +24,7 @@ Python programming was utilized for more in-depth analysis.
 The "eda_notebook.ipynb" notebook contains Python code that delves into data exploration, generating additional insights.
 A variety of plots were created and stored in the "plots" folder, offering a comprehensive view of various data aspects.
 
-### Key Findings and Conclusions:**
+## Key Findings and Conclusions:**
 After thorough analysis and observations, the following conclusions were drawn:
 
 **Company Preference:**
